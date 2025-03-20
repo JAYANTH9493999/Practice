@@ -8,6 +8,7 @@ public class FirstSeleniumScript {
 
 	public static void main (String []arays)
 	{
+		
 		WebDriver driver;
 		driver = new ChromeDriver();
 		driver.get ("https://www.mycontactform.com/samples.php");
